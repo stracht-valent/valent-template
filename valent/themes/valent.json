@@ -1,0 +1,20 @@
+{
+  "name": "Valent",
+  "base": "dark",
+  "overrides": {
+    "claude": "#40b5c7",
+    "claudeShimmer": "#8fd9e4",
+    "promptBorder": "#40b5c7",
+    "promptBorderShimmer": "#8fd9e4",
+    "permission": "#6d78c9",
+    "permissionShimmer": "#9aa3dd",
+    "planMode": "#9aa3dd",
+    "autoAccept": "#318e9c",
+    "bashBorder": "#6d78c9",
+    "suggestion": "#40b5c7",
+    "remember": "#8fd9e4",
+    "ide": "#40b5c7",
+    "inactive": "#7f96b2",
+    "subtle": "#2f3a7a"
+  }
+}

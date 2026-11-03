@@ -1,0 +1,9 @@
+{
+  "name": "valent",
+  "version": "0.1.0",
+  "description": "Valent Partners flair for Claude Code: a VP logo banner and Valent-colored CLI accents",
+  "types": "./types/index.d.ts",
+  "license": "MIT",
+  "author": { "name": "Valent Partners" },
+  "experimental": { "themes": "./themes/" }
+}

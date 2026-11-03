@@ -1,0 +1,12 @@
+{
+  "name": "valent-mods",
+  "description": "Valent Partners mods for Claude Code",
+  "owner": { "name": "Valent Partners", "url": "https://valentpartners.com" },
+  "plugins": [
+    {
+      "name": "valent",
+      "source": "./valent",
+      "description": "Valent Partners flair for Claude Code: a VP logo banner and Valent-colored CLI accents"
+    }
+  ]
+}
